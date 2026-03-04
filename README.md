@@ -62,7 +62,7 @@ MobilityX/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/MobilityX.git
+git clone https://github.com/bhavadeep-05/MobilityX---Smart-ADAS-System.git
 cd MobilityX
 ```
 
@@ -150,3 +150,4 @@ This project is for educational and research purposes.
 ---
 
 <p align="center">Built using Python · YOLOv8 · SegFormer · PyQt6 · OpenCV</p>
+
