@@ -27,13 +27,6 @@
 | 🎨 **Premium Dark UI** | Deep-navy PyQt6 interface with HUD overlays, glow accents, and cinematic bars |
 | ⚙️ **Settings Dialog** | Configurable confidence threshold, YOLOv8 model size, and feature toggles |
 
----
-
-## 🖥️ Screenshots
-
-> *(Add screenshots of the running application here)*
-
----
 
 ##  Project Structure
 
